@@ -60,7 +60,7 @@ Conclusion:
 Through structured text preprocessing, careful data handling, and robust model selection and evaluation, this task serves as a strong foundational template for text analytics in Python. It combines established machine learning best practices with practical considerations unique to NLP problems, laying the groundwork for further exploration in deep learning-based models, multi-class or multi-label variants, and more sophisticated interpretability tools.
 
 #OUTPUT
-
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/27cb2204-456b-4b6d-be2b-060a206df07c" />
 
 
 
